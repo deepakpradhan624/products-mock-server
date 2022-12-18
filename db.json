@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "VALENTINO",
+        "img": "https://cdn.modesens.com/availability/57327812?w=400",
+        "price": 4990
+      },
+      {
+        "id": 2,
+        "name": "MAX MARA",
+        "img": "https://cdn.modesens.com/product/46980519_1?w=400",
+        "price": 6990
+      },
+      {
+        "id": 3,
+        "name": "VERONICA BEARD",
+        "img": "https://cdn.modesens.com/product/58918519_2?w=400",
+        "price": 899
+      },
+      {
+        "id": 4,
+        "name": "STELA MCCARTNE",
+        "img": "https://cdn.modesens.com/product/22181655_255?w=400",
+        "price": 1100
+      },
+      {
+        "id": 5,
+        "name": "KHAITE",
+        "img": "https://cdn.modesens.com/product/26226095_8?w=400",
+        "price": 770
+      },
+      {
+        "id": 6,
+        "name": "ALLSAINTS",
+        "img": "https://cdn.modesens.com/product/61920663_1?w=400",
+        "price":2110 
+         },
+      {
+        "id": 7,
+        "name": "KHAITE",
+        "img": "https://cdn.modesens.com/product/26226094_19?w=400",
+        "price": 886
+      },
+      {
+        "id": 8,
+        "name": "VERONICA BEARD",
+        "img": "https://cdn.modesens.com/product/39957117_9?w=400",
+        "price": 660
+      },
+      {
+        "id": 9,
+        "name": "MAX MARA",
+        "img": "https://cdn.modesens.com/availability/56130833?w=400",
+        "price": 1360
+      },
+      {
+        "id": 10,
+        "name": "MAX MARA",
+        "img": "https://cdn.modesens.com/product/48534769_1?w=400",
+        "price": 4100
+      },
+      {
+        "id": 11,
+        "name": "BALMAINE",
+        "img": "https://cdn.modesens.com/availability/45023940?w=400",
+        "price": 600
+      },
+      {
+        "id": 12,
+        "name": "ALICE AND OLIVIA",
+        "img": "https://cdn.modesens.com/availability/55954969?w=400",
+        "price": 3100
+      },
+      {
+        "id": 13,
+        "name": "ALLSAINTS",
+        "img": "https://cdn.modesens.com/availability/58078045?w=400",
+        "price": 190
+      },
+      {
+        "id": 14,
+        "name": "VERONICA BEARD",
+        "img": "https://cdn.modesens.com/product/48311981_3?w=400",
+        "price": 790
+      },
+      {
+       "id":15,
+       "name":"VERSACE",
+       "img":"https://cdn.modesens.com/availability/53912398_1?w=400",
+       "price":480
+
+      }
+    ]
+  }
